@@ -36,8 +36,8 @@ Experience the highly anticipated **Path of Exile 2** before its official releas
 
 ## 🎥 **Showcase**
 <div align="center">
-    <h3>Path of Exile 2 Crack Early Access Gameplay</h3>
-    <img src="https://github.com/PathOfExile2-Crack/PoE2-Crack-Early-Access/blob/main/poe2-demo.gif" alt="Path of Exile 2 Gameplay" width="100%">
+    <h3>Path of Exile 2 Crack Early Access</h3>
+    <img src="https://github.com/AntlerClark/Path-of-Exile-2-Crack-Early-Access/blob/main/Path-of-Exile-2.jpg" alt="Path of Exile 2 Gameplay" width="100%">
 </div>
 
 ---
